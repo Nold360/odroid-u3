@@ -1,4 +1,4 @@
-Modified Ressource-Agents for Pacemakter Cluster on Odroid-U3 @ Kernel 3.8.X
+Modified Resource-Agents for Pacemakter Cluster on Odroid-U3 @ Kernel 3.8.X
 
-These Ressource Agents replace the originals under "/usr/lib/ocf/resource.d/heartbeat/"
+These Resource Agents replace the originals under "/usr/lib/ocf/resource.d/heartbeat/"
 on Debian. 

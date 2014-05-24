@@ -1,5 +1,5 @@
 - sensor_temp.sh
 	Showes CPU temperature in °C
 
-- ressource-agents
-	Contains Pacemaker Ressource Agents
+- resource-agents
+	Contains Pacemaker Resource Agents
