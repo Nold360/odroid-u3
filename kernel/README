@@ -1,0 +1,8 @@
+- config-3.8.13.19-incl-cgroup+gfs+ocfs2+more
+	Included features, compaired to the stock odroid-u2/3 Kernel:
+	[M] DLM
+	[M] All available CGROUPS
+	[M] OCFS2
+	[M] NFS
+	[M] GFS
+	[M] scsi_transport_iscsi (for ISCSI)
